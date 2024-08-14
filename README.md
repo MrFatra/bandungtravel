@@ -59,5 +59,3 @@
 - **MySQL**: Database untuk menyimpan informasi pengguna dan pemesanan.
 - **Tailwind CSS & DaisyUI**: Styling UI.
 - **JavaScript**: Untuk interaksi pengguna dan kalkulasi dinamis.
-
-## Struktur Proyek
